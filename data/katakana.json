@@ -504,7 +504,7 @@
         "example": ["", "", "", ""]
     },
     {
-        "question": "ニョ",
+        "question": "ニュ",
         "choice1": "",
         "choice2": "",
         "choice3": "",
@@ -513,7 +513,7 @@
         "example": ["", "", "", ""]
     },
     {
-        "question": "ニュ",
+        "question": "ニョ",
         "choice1": "",
         "choice2": "",
         "choice3": "",
@@ -666,7 +666,7 @@
         "example": ["", "", "", ""]
     },
     {
-        "question": "ヒョ",
+        "question": "ヒュ",
         "choice1": "",
         "choice2": "",
         "choice3": "",
@@ -675,7 +675,7 @@
         "example": ["", "", "", ""]
     },
     {
-        "question": "ヒュ",
+        "question": "ヒョ",
         "choice1": "",
         "choice2": "",
         "choice3": "",
