@@ -1,2 +1,2 @@
 # LearnJapanese
-use this app to learn how to read Japanese Hiragana and Katakana
+use this quiz app to learn how to read Japanese Hiragana and Katakana

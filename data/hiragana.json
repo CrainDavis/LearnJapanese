@@ -1,0 +1,938 @@
+[
+    {
+        "question": "あ",
+        "choice1": "ka",
+        "choice2": "a",
+        "choice3": "o",
+        "choice4": "ru",
+        "answer": 2,
+        "example": ["愛", "あい", "ai", "love"]
+    },
+    {
+        "question": "い",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "う",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "え",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "お",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "か",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "き",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "く",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "け",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "こ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "が",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ぎ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ぐ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "げ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ご",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "きゃ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "きゅ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "きょ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ぎゃ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ぎゅ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ぎょ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "さ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "し",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "す",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "せ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "そ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ざ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "じ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ず",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ぜ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ぞ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "しゃ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "しゅ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "しょ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "じゃ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "じゅ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "じょ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "た",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ち",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "つ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "て",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "と",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "だ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ぢ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "づ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "で",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ど",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ちゃ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ちゅ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ちょ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "な",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "に",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ぬ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ね",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "の",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "にゃ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "にょ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "にゅ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "は",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ひ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ふ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "へ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ほ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ば",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "び",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ぶ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "べ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ぼ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ぱ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ぴ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ぷ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ぺ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ぽ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ひゃ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ひょ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ひゅ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "びゃ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "びゅ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "びょ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ぴゃ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ぴゅ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ぴょ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ま",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "み",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "む",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "め",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "も",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "みゃ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "みゅ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "みょ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "や",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "よ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ゆ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ら",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "り",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "る",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "れ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ろ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "りゃ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "りゅ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "りょ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "わ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "を",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ん",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    }
+]

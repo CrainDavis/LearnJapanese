@@ -1,0 +1,938 @@
+[
+    {
+        "question": "ア",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "イ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ウ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "エ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "オ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "カ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "キ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ク",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ケ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "コ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ガ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ギ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "グ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ゲ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ゴ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "キャ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "キュ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "キョ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ギャ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ギュ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ギョ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "サ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "シ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ス",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "セ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ソ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ザ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ジ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ズ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ゼ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ゾ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "シャ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "シュ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ショ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ジャ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ジュ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ジョ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "タ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "チ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ツ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "テ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ト",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ダ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ヂ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ヅ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "デ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ド",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "チャ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "チュ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "チョ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ナ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ニ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ヌ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ネ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ノ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ニャ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ニョ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ニュ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ハ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ヒ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "フ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ヘ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ホ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "バ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ビ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ブ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ベ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ボ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "パ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ピ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "プ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ペ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ポ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ヒャ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ヒョ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ヒュ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ビャ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ビュ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ビョ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ピャ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ピュ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ピョ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "マ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ミ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ム",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "メ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "モ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ミャ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ミュ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ミョ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ヤ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ヨ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ユ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ラ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "リ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ル",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "レ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ロ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "リャ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "リュ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "リョ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ワ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ヲ",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    },
+    {
+        "question": "ン",
+        "choice1": "",
+        "choice2": "",
+        "choice3": "",
+        "choice4": "",
+        "answer": 0,
+        "example": ["", "", "", ""]
+    }
+]
