@@ -1,12 +1,11 @@
 [
     {
         "question": "ア",
-        "choice1": "",
-        "choice2": "",
-        "choice3": "",
-        "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "choice1": "a",
+        "choice2": "sa",
+        "choice3": "te",
+        "choice4": "ko",
+        "answer": 1
     },
     {
         "question": "イ",
@@ -14,8 +13,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ウ",
@@ -23,8 +21,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "エ",
@@ -32,8 +29,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "オ",
@@ -41,8 +37,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "カ",
@@ -50,8 +45,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "キ",
@@ -59,8 +53,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ク",
@@ -68,8 +61,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ケ",
@@ -77,8 +69,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "コ",
@@ -86,8 +77,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ガ",
@@ -95,8 +85,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ギ",
@@ -104,8 +93,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "グ",
@@ -113,8 +101,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ゲ",
@@ -122,8 +109,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ゴ",
@@ -131,8 +117,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "キャ",
@@ -140,8 +125,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "キュ",
@@ -149,8 +133,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "キョ",
@@ -158,8 +141,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ギャ",
@@ -167,8 +149,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ギュ",
@@ -176,8 +157,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ギョ",
@@ -185,8 +165,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "サ",
@@ -194,8 +173,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "シ",
@@ -203,8 +181,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ス",
@@ -212,8 +189,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "セ",
@@ -221,8 +197,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ソ",
@@ -230,8 +205,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ザ",
@@ -239,8 +213,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ジ",
@@ -248,8 +221,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ズ",
@@ -257,8 +229,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ゼ",
@@ -266,8 +237,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ゾ",
@@ -275,8 +245,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "シャ",
@@ -284,8 +253,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "シュ",
@@ -293,8 +261,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ショ",
@@ -302,8 +269,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ジャ",
@@ -311,8 +277,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ジュ",
@@ -320,8 +285,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ジョ",
@@ -329,8 +293,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "タ",
@@ -338,8 +301,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "チ",
@@ -347,8 +309,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ツ",
@@ -356,8 +317,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "テ",
@@ -365,8 +325,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ト",
@@ -374,8 +333,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ダ",
@@ -383,8 +341,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ヂ",
@@ -392,8 +349,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ヅ",
@@ -401,8 +357,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "デ",
@@ -410,8 +365,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ド",
@@ -419,8 +373,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "チャ",
@@ -428,8 +381,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "チュ",
@@ -437,8 +389,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "チョ",
@@ -446,8 +397,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ナ",
@@ -455,8 +405,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ニ",
@@ -464,8 +413,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ヌ",
@@ -473,8 +421,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ネ",
@@ -482,8 +429,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ノ",
@@ -491,8 +437,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ニャ",
@@ -500,8 +445,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ニュ",
@@ -509,8 +453,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ニョ",
@@ -518,8 +461,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ハ",
@@ -527,8 +469,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ヒ",
@@ -536,8 +477,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "フ",
@@ -545,8 +485,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ヘ",
@@ -554,8 +493,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ホ",
@@ -563,8 +501,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "バ",
@@ -572,8 +509,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ビ",
@@ -581,8 +517,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ブ",
@@ -590,8 +525,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ベ",
@@ -599,8 +533,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ボ",
@@ -608,8 +541,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "パ",
@@ -617,8 +549,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ピ",
@@ -626,8 +557,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "プ",
@@ -635,8 +565,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ペ",
@@ -644,8 +573,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ポ",
@@ -653,8 +581,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ヒャ",
@@ -662,8 +589,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ヒュ",
@@ -671,8 +597,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ヒョ",
@@ -680,8 +605,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ビャ",
@@ -689,8 +613,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ビュ",
@@ -698,8 +621,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ビョ",
@@ -707,8 +629,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ピャ",
@@ -716,8 +637,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ピュ",
@@ -725,8 +645,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ピョ",
@@ -734,8 +653,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "マ",
@@ -743,8 +661,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ミ",
@@ -752,8 +669,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ム",
@@ -761,8 +677,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "メ",
@@ -770,8 +685,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "モ",
@@ -779,8 +693,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ミャ",
@@ -788,8 +701,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ミュ",
@@ -797,8 +709,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ミョ",
@@ -806,8 +717,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ヤ",
@@ -815,8 +725,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ヨ",
@@ -824,8 +733,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ユ",
@@ -833,8 +741,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ラ",
@@ -842,8 +749,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "リ",
@@ -851,8 +757,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ル",
@@ -860,8 +765,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "レ",
@@ -869,8 +773,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ロ",
@@ -878,8 +781,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "リャ",
@@ -887,8 +789,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "リュ",
@@ -896,8 +797,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "リョ",
@@ -905,8 +805,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ワ",
@@ -914,8 +813,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ヲ",
@@ -923,8 +821,7 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     },
     {
         "question": "ン",
@@ -932,7 +829,6 @@
         "choice2": "",
         "choice3": "",
         "choice4": "",
-        "answer": 0,
-        "example": ["", "", "", ""]
+        "answer": 0
     }
 ]

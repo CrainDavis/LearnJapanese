@@ -5,8 +5,7 @@
         "choice2": "a",
         "choice3": "o",
         "choice4": "ru",
-        "answer": 2,
-        "example": ["愛", "あい", "ai", "love"]
+        "answer": 2
     },
     {
         "question": "い",
@@ -14,8 +13,7 @@
         "choice2": "na",
         "choice3": "ri",
         "choice4": "i",
-        "answer": 4,
-        "example": ["今", "いま", "ima", "now"]
+        "answer": 4
     },
     {
         "question": "う",
@@ -23,8 +21,7 @@
         "choice2": "u",
         "choice3": "sa",
         "choice4": "chi",
-        "answer": 2,
-        "example": ["海", "うみ", "umi", "ocean"]
+        "answer": 2
     },
     {
         "question": "え",
@@ -32,8 +29,7 @@
         "choice2": "re",
         "choice3": "ra",
         "choice4": "ki",
-        "answer": 1,
-        "example": ["笑顔", "え・がお", "e・gao", "smile"]
+        "answer": 1
     },
     {
         "question": "お",
@@ -41,8 +37,7 @@
         "choice2": "a",
         "choice3": "mi",
         "choice4": "re",
-        "answer": 1,
-        "example": ["音楽", "おん・がく", "on・gaku", "music"]
+        "answer": 1
     },
     {
         "question": "か",
@@ -50,8 +45,7 @@
         "choice2": "ka",
         "choice3": "ni",
         "choice4": "ru",
-        "answer": 2,
-        "example": ["金", "かね", "kane", "money"]
+        "answer": 2
     },
     {
         "question": "き",
@@ -59,8 +53,7 @@
         "choice2": "mo",
         "choice3": "sa",
         "choice4": "ki",
-        "answer": 4,
-        "example": ["黄色", "き・いろ", "ki・iro", "yellow"]
+        "answer": 4
     },
     {
         "question": "く",
@@ -68,8 +61,7 @@
         "choice2": "ku",
         "choice3": "wa",
         "choice4": "fu",
-        "answer": 2,
-        "example": ["靴", "くつ", "kutsu", "shoe"]
+        "answer": 2
     },
     {
         "question": "け",
@@ -77,8 +69,7 @@
         "choice2": "ne",
         "choice3": "ke",
         "choice4": "mi",
-        "answer": 3,
-        "example": ["健康", "けん・こう", "ken・kou", "health"]
+        "answer": 3
     },
     {
         "question": "こ",
@@ -86,8 +77,7 @@
         "choice2": "hi",
         "choice3": "n",
         "choice4": "i",
-        "answer": 1,
-        "example": ["子供", "こ・ども", "ko・domo", "children"]
+        "answer": 1
     },
     {
         "question": "が",
@@ -95,8 +85,7 @@
         "choice2": "bi",
         "choice3": "de",
         "choice4": "ga",
-        "answer": 4,
-        "example": ["学校", "がっ・こう", "gak・kou", "school"]
+        "answer": 4
     },
     {
         "question": "ぎ",
@@ -104,8 +93,7 @@
         "choice2": "gi",
         "choice3": "za",
         "choice4": "go",
-        "answer": 2,
-        "example": ["銀行", "ぎん・こう", "gin・kou", "bank"]
+        "answer": 2
     },
     {
         "question": "ぐ",
@@ -113,8 +101,7 @@
         "choice2": "gu",
         "choice3": "ji",
         "choice4": "bi",
-        "answer": 2,
-        "example": ["具合", "ぐ・あい", "gu・ai", "state (of health)"]
+        "answer": 2
     },
     {
         "question": "げ",
@@ -122,8 +109,7 @@
         "choice2": "bi",
         "choice3": "ge",
         "choice4": "zu",
-        "answer": 3,
-        "example": ["劇場", "げきじょう", "gekijou", "theater"]
+        "answer": 3
     },
     {
         "question": "ご",
@@ -131,8 +117,7 @@
         "choice2": "bo",
         "choice3": "za",
         "choice4": "ji",
-        "answer": 1,
-        "example": ["午後", "ご・ご", "go・go", "afternoon"]
+        "answer": 1
     },
     {
         "question": "きゃ",
@@ -140,8 +125,7 @@
         "choice2": "kya",
         "choice3": "sha",
         "choice4": "gya",
-        "answer": 2,
-        "example": ["客", "きゃく", "kyaku", "guest"]
+        "answer": 2
     },
     {
         "question": "きゅ",
@@ -149,8 +133,7 @@
         "choice2": "gya",
         "choice3": "ju",
         "choice4": "kyu",
-        "answer": 4,
-        "example": ["救急車", "きゅう・きゅう・しゃ", "kyuu・kyuu・sha", "ambulence"]
+        "answer": 4
     },
     {
         "question": "きょ",
@@ -158,8 +141,7 @@
         "choice2": "ryo",
         "choice3": "kyo",
         "choice4": "hyu",
-        "answer": 3,
-        "example": ["興味", "きょう・み", "kyou・mi", "interest"]
+        "answer": 3
     },
     {
         "question": "ぎゃ",
@@ -167,8 +149,7 @@
         "choice2": "gya",
         "choice3": "myu",
         "choice4": "kya",
-        "answer": 2,
-        "example": ["逆", "ぎゃく", "gyaku", "opposite"]
+        "answer": 2
     },
     {
         "question": "ぎゅ",
@@ -176,8 +157,7 @@
         "choice2": "sho",
         "choice3": "gyu",
         "choice4": "kya",
-        "answer": 3,
-        "example": ["牛肉", "ぎゅう・にく", "gyuu・niku", "beef"]
+        "answer": 3
     },
     {
         "question": "ぎょ",
@@ -185,8 +165,7 @@
         "choice2": "mya",
         "choice3": "sha",
         "choice4": "gyo",
-        "answer": 4,
-        "example": ["業界", "ぎょう・かい", "gyou・kai", "industry"]
+        "answer": 4
     },
     {
         "question": "さ",
@@ -194,8 +173,7 @@
         "choice2": "sa",
         "choice3": "ma",
         "choice4": "re",
-        "answer": 2,
-        "example": ["皿", "さら", "sara", "plate"]
+        "answer": 2
     },
     {
         "question": "し",
@@ -203,8 +181,7 @@
         "choice2": "so",
         "choice3": "n",
         "choice4": "ka",
-        "answer": 1,
-        "example": ["試験", "し・けん", "shi・ken", "exam"]
+        "answer": 1
     },
     {
         "question": "す",
@@ -212,8 +189,7 @@
         "choice2": "su",
         "choice3": "sa",
         "choice4": "ro",
-        "answer": 2,
-        "example": ["水曜日", "すい・よう・び", "sui・you・bi", "Wednesday"]
+        "answer": 2
     },
     {
         "question": "せ",
@@ -221,8 +197,7 @@
         "choice2": "se",
         "choice3": "wa",
         "choice4": "ko",
-        "answer": 2,
-        "example": ["先生", "せん・せい", "sen・sei", "teacher"]
+        "answer": 2
     },
     {
         "question": "そ",
@@ -230,8 +205,7 @@
         "choice2": "hi",
         "choice3": "ke",
         "choice4": "so",
-        "answer": 4,
-        "example": ["空", "そら", "sora", "sky"]
+        "answer": 4
     },
     {
         "question": "ざ",
@@ -239,8 +213,7 @@
         "choice2": "gi",
         "choice3": "de",
         "choice4": "zu",
-        "answer": 1,
-        "example": ["材料", "ざい・りょう", "zai・ryou", "ingredient"]
+        "answer": 1
     },
     {
         "question": "じ",
@@ -248,8 +221,7 @@
         "choice2": "ji",
         "choice3": "da",
         "choice4": "zo",
-        "answer": 2,
-        "example": ["時間", "じ・かん", "ji・kan", "time"]
+        "answer": 2
     },
     {
         "question": "ず",
@@ -257,8 +229,7 @@
         "choice2": "zu",
         "choice3": "ji",
         "choice4": "ba",
-        "answer": 2,
-        "example": ["頭痛", "ず・つう", "zu・tsuu", "headache"]
+        "answer": 2
     },
     {
         "question": "ぜ",
@@ -266,8 +237,7 @@
         "choice2": "ze",
         "choice3": "bi",
         "choice4": "de",
-        "answer": 2,
-        "example": ["税金", "ぜい・きん", "zei・kin", "tax"]
+        "answer": 2
     },
     {
         "question": "ぞ",
@@ -275,8 +245,7 @@
         "choice2": "zu",
         "choice3": "za",
         "choice4": "zo",
-        "answer": 4,
-        "example": ["象", "ぞう", "zou", "elephant"]
+        "answer": 4
     },
     {
         "question": "しゃ",
@@ -284,8 +253,7 @@
         "choice2": "ryo",
         "choice3": "myu",
         "choice4": "kya",
-        "answer": 1,
-        "example": ["写真", "しゃ・しん", "sha・shin", "photograph"]
+        "answer": 1
     },
     {
         "question": "しゅ",
@@ -293,8 +261,7 @@
         "choice2": "shu",
         "choice3": "kyo",
         "choice4": "ryu",
-        "answer": 2,
-        "example": ["週末", "しゅう・まつ", "shuu・matsu", "weekend"]
+        "answer": 2
     },
     {
         "question": "しょ",
@@ -302,8 +269,7 @@
         "choice2": "kya",
         "choice3": "sha",
         "choice4": "sho",
-        "answer": 4,
-        "example": ["勝利", "しょう・り", "shou・ri", "victory"]
+        "answer": 4
     },
     {
         "question": "じゃ",
@@ -311,8 +277,7 @@
         "choice2": "ja",
         "choice3": "sha",
         "choice4": "rya",
-        "answer": 2,
-        "example": ["邪魔", "じゃ・ま", "ja・ma", "interruption"]
+        "answer": 2
     },
     {
         "question": "じゅ",
@@ -320,8 +285,7 @@
         "choice2": "ja",
         "choice3": "shu",
         "choice4": "rya",
-        "answer": 1,
-        "example": ["順番", "じゅん・ばん", "jun・ban", "order"]
+        "answer": 1
     },
     {
         "question": "じょ",
@@ -329,8 +293,7 @@
         "choice2": "jo",
         "choice3": "ja",
         "choice4": "ryo",
-        "answer": 2,
-        "example": ["条件", "じょう・けん", "jou・ken", "condition"]
+        "answer": 2
     },
     {
         "question": "た",
@@ -338,8 +301,7 @@
         "choice2": "ta",
         "choice3": "so",
         "choice4": "na",
-        "answer": 2,
-        "example": ["態度", "たい・ど", "tai・do", "attitude"]
+        "answer": 2
     },
     {
         "question": "ち",
@@ -347,8 +309,7 @@
         "choice2": "chi",
         "choice3": "ma",
         "choice4": "de",
-        "answer": 2,
-        "example": ["地図", "ち・ず", "chi・zu", "map"]
+        "answer": 2
     },
     {
         "question": "つ",
@@ -356,8 +317,7 @@
         "choice2": "i",
         "choice3": "tsu",
         "choice4": "yo",
-        "answer": 3,
-        "example": ["月", "つき", "tsuki", "moon"]
+        "answer": 3
     },
     {
         "question": "て",
@@ -365,8 +325,7 @@
         "choice2": "te",
         "choice3": "ne",
         "choice4": "ho",
-        "answer": 2,
-        "example": ["天気", "てん・き", "ten・ki", "weather"]
+        "answer": 2
     },
     {
         "question": "と",
@@ -374,8 +333,7 @@
         "choice2": "me",
         "choice3": "to",
         "choice4": "no",
-        "answer": 3,
-        "example": ["虎", "とら", "tora", "tiger"]
+        "answer": 3
     },
     {
         "question": "だ",
@@ -383,8 +341,7 @@
         "choice2": "da",
         "choice3": "zo",
         "choice4": "bu",
-        "answer": 2,
-        "example": ["大学", "だい・がく", "dai・gaku", "university"]
+        "answer": 2
     },
     {
         "question": "ぢ",
@@ -392,8 +349,7 @@
         "choice2": "zo",
         "choice3": "de",
         "choice4": "ba",
-        "answer": 1,
-        "example": ["鼻血", "はな・ぢ", "hana・ji", "nosebleed"]
+        "answer": 1
     },
     {
         "question": "づ",
@@ -401,8 +357,7 @@
         "choice2": "ba",
         "choice3": "za",
         "choice4": "zu",
-        "answer": 4,
-        "example": ["続き", "つづ・き", "tsuzu・ki", "continuation"]
+        "answer": 4
     },
     {
         "question": "で",
@@ -410,8 +365,7 @@
         "choice2": "de",
         "choice3": "ge",
         "choice4": "zo",
-        "answer": 2,
-        "example": ["電話", "でん・わ", "den・wa", "telephone"]
+        "answer": 2
     },
     {
         "question": "ど",
@@ -419,8 +373,7 @@
         "choice2": "ba",
         "choice3": "do",
         "choice4": "gi",
-        "answer": 3,
-        "example": ["毒", "どく", "doku", "poison"]
+        "answer": 3
     },
     {
         "question": "ちゃ",
@@ -428,8 +381,7 @@
         "choice2": "sha",
         "choice3": "mya",
         "choice4": "cha",
-        "answer": 4,
-        "example": ["紅茶", "こう・ちゃ", "kou・cha", "black tea"]
+        "answer": 4
     },
     {
         "question": "ちゅ",
@@ -437,8 +389,7 @@
         "choice2": "ryu",
         "choice3": "shu",
         "choice4": "cha",
-        "answer": 1,
-        "example": ["昼食", "ちゅう・しょく", "chuu・shoku", "lunch"]
+        "answer": 1
     },
     {
         "question": "ちょ",
@@ -446,8 +397,7 @@
         "choice2": "cho",
         "choice3": "ju",
         "choice4": "myo",
-        "answer": 2,
-        "example": ["貯金", "ちょ・きん", "cho・kin", "savings"]
+        "answer": 2
     },
     {
         "question": "な",
@@ -455,8 +405,7 @@
         "choice2": "na",
         "choice3": "ne",
         "choice4": "mu",
-        "answer": 2,
-        "example": ["夏", "なつ", "natsu", "summer"]
+        "answer": 2
     },
     {
         "question": "に",
@@ -464,8 +413,7 @@
         "choice2": "ko",
         "choice3": "e",
         "choice4": "ma",
-        "answer": 1,
-        "example": ["人間", "にん・げん", "nin・gen", "human"]
+        "answer": 1
     },
     {
         "question": "ぬ",
@@ -473,8 +421,7 @@
         "choice2": "wa",
         "choice3": "nu",
         "choice4": "no",
-        "answer": 3,
-        "example": ["沼", "ぬま", "numa", "swamp"]
+        "answer": 3
     },
     {
         "question": "ね",
@@ -482,8 +429,7 @@
         "choice2": "re",
         "choice3": "wa",
         "choice4": "no",
-        "answer": 1,
-        "example": ["猫", "ねこ", "neko", "cat"]
+        "answer": 1
     },
     {
         "question": "の",
@@ -491,8 +437,7 @@
         "choice2": "no",
         "choice3": "me",
         "choice4": "n",
-        "answer": 2,
-        "example": ["脳", "のう", "nou", "brain"]
+        "answer": 2
     },
     {
         "question": "にゃ",
@@ -500,8 +445,7 @@
         "choice2": "kya",
         "choice3": "sha",
         "choice4": "mya",
-        "answer": 1,
-        "example": ["老若男女", "ろう・にゃく・なん・にょ", "rou・nyaku・nan・nyo", "people of all ages"]
+        "answer": 1
     },
     {
         "question": "にゅ",
@@ -509,8 +453,7 @@
         "choice2": "myo",
         "choice3": "nyu",
         "choice4": "kya",
-        "answer": 3,
-        "example": ["牛乳", "ぎゅう・にゅう", "gyuu・nyuu", "milk"]
+        "answer": 3
     },
     {
         "question": "にょ",
@@ -518,8 +461,7 @@
         "choice2": "ryu",
         "choice3": "nyo",
         "choice4": "kyo",
-        "answer": 3,
-        "example": ["女房", "にょう・ぼう", "nyou・bo", "wife"]
+        "answer": 3
     },
     {
         "question": "は",
@@ -527,8 +469,7 @@
         "choice2": "ha",
         "choice3": "bo",
         "choice4": "me",
-        "answer": 2,
-        "example": ["母親", "はは・おや", "haha・oya", "mother"]
+        "answer": 2
     },
     {
         "question": "ひ",
@@ -536,8 +477,7 @@
         "choice2": "hi",
         "choice3": "ro",
         "choice4": "sa",
-        "answer": 2,
-        "example": ["光", "ひかり", "hikari", "light"]
+        "answer": 2
     },
     {
         "question": "ふ",
@@ -545,8 +485,7 @@
         "choice2": "fu",
         "choice3": "ka",
         "choice4": "mu",
-        "answer": 2,
-        "example": ["風船", "ふう・せん", "fuu・sen", "balloon"]
+        "answer": 2
     },
     {
         "question": "へ",
@@ -554,8 +493,7 @@
         "choice2": "n",
         "choice3": "he",
         "choice4": "i",
-        "answer": 3,
-        "example": ["部屋", "へ・や", "he・ya", "room"]
+        "answer": 3
     },
     {
         "question": "ほ",
@@ -563,8 +501,7 @@
         "choice2": "ha",
         "choice3": "ma",
         "choice4": "re",
-        "answer": 1,
-        "example": ["法律", "ほう・りつ", "hou・ritsu", "law"]
+        "answer": 1
     },
     {
         "question": "ば",
@@ -572,8 +509,7 @@
         "choice2": "ba",
         "choice3": "ga",
         "choice4": "de",
-        "answer": 2,
-        "example": ["場所", "ば・しょ", "ba・sho", "place"]
+        "answer": 2
     },
     {
         "question": "び",
@@ -581,8 +517,7 @@
         "choice2": "ge",
         "choice3": "da",
         "choice4": "bi",
-        "answer": 4,
-        "example": ["美術館", "び・じゅつ・かん", "bi・jutsu・kan", "art museum"]
+        "answer": 4
     },
     {
         "question": "ぶ",
@@ -590,8 +525,7 @@
         "choice2": "bu",
         "choice3": "do",
         "choice4": "ji",
-        "answer": 2,
-        "example": ["武器", "ぶ・き", "bu・ki", "weapon"]
+        "answer": 2
     },
     {
         "question": "べ",
@@ -599,8 +533,7 @@
         "choice2": "ba",
         "choice3": "de",
         "choice4": "ji",
-        "answer": 1,
-        "example": ["弁当", "べん・とう", "ben・tou", "lunchbox"]
+        "answer": 1
     },
     {
         "question": "ぼ",
@@ -608,8 +541,7 @@
         "choice2": "bo",
         "choice3": "ba",
         "choice4": "ga",
-        "answer": 2,
-        "example": ["冒険", "ぼう・けん", "bou・ken", "adventure"]
+        "answer": 2
     },
     {
         "question": "ぱ",
@@ -617,8 +549,7 @@
         "choice2": "ba",
         "choice3": "pa",
         "choice4": "pi",
-        "answer": 3,
-        "example": ["一歩", "いっ・ぽ", "ip・po", "(one) step"]
+        "answer": 3
     },
     {
         "question": "ぴ",
@@ -626,8 +557,7 @@
         "choice2": "pi",
         "choice3": "bi",
         "choice4": "ba",
-        "answer": 2,
-        "example": ["生年月日", "せい・ねん・がっ・ぴ", "sei・nen・gap・pi", "date of birth"]
+        "answer": 2
     },
     {
         "question": "ぷ",
@@ -635,8 +565,7 @@
         "choice2": "pu",
         "choice3": "pe",
         "choice4": "bu",
-        "answer": 2,
-        "example": ["切符", "きっ・ぷ", "kip・pu", "ticket"]
+        "answer": 2
     },
     {
         "question": "ぺ",
@@ -644,8 +573,7 @@
         "choice2": "pa",
         "choice3": "pe",
         "choice4": "bu",
-        "answer": 3,
-        "example": ["台北", "たい・ぺい", "tai・pei", "Taipei"]
+        "answer": 3
     },
     {
         "question": "ぽ",
@@ -653,8 +581,7 @@
         "choice2": "po",
         "choice3": "bo",
         "choice4": "bo",
-        "answer": 2,
-        "example": ["牧場", "ぼく・じょう", "boku・jou", "ranch"]
+        "answer": 2
     },
     {
         "question": "ひゃ",
@@ -662,8 +589,7 @@
         "choice2": "hya",
         "choice3": "hyo",
         "choice4": "ryu",
-        "answer": 2,
-        "example": ["百", "ひゃく", "hyaku", "hundred"]
+        "answer": 2
     },
     {
         "question": "ひゅ",
@@ -671,8 +597,7 @@
         "choice2": "hyu",
         "choice3": "hyo",
         "choice4": "myo",
-        "answer": 3,
-        "example": ["", "", "", ""]
+        "answer": 3
     },
     {
         "question": "ひょ",
@@ -680,8 +605,7 @@
         "choice2": "ryu",
         "choice3": "kya",
         "choice4": "myo",
-        "answer": 1,
-        "example": ["表情", "ひょう・じょう", "hyou・jou", "facial expression"]
+        "answer": 1
     },
     {
         "question": "びゃ",
@@ -689,8 +613,7 @@
         "choice2": "bya",
         "choice3": "kyo",
         "choice4": "nyu",
-        "answer": 2,
-        "example": ["三百", "さん・びゃく", "san・byaku", "three hundred"]
+        "answer": 2
     },
     {
         "question": "びゅ",
@@ -698,8 +621,7 @@
         "choice2": "pyu",
         "choice3": "byo",
         "choice4": "bya",
-        "answer": 1,
-        "example": ["", "", "", ""]
+        "answer": 1
     },
     {
         "question": "びょ",
@@ -707,8 +629,7 @@
         "choice2": "byu",
         "choice3": "bya",
         "choice4": "pyo",
-        "answer": 1,
-        "example": ["病気", "びょう・き", "byou・ki", "illness"]
+        "answer": 1
     },
     {
         "question": "ぴゃ",
@@ -716,8 +637,7 @@
         "choice2": "bya",
         "choice3": "pyo",
         "choice4": "byu",
-        "answer": 1,
-        "example": ["八百", "はっ・ぴゃく", "hap・pyaku", "eight hundred"]
+        "answer": 1
     },
     {
         "question": "ぴゅ",
@@ -725,8 +645,7 @@
         "choice2": "pyu",
         "choice3": "pyo",
         "choice4": "pya",
-        "answer": 2,
-        "example": ["", "", "", ""]
+        "answer": 2
     },
     {
         "question": "ぴょ",
@@ -734,8 +653,7 @@
         "choice2": "pyo",
         "choice3": "pyu",
         "choice4": "pya",
-        "answer": 2,
-        "example": ["一票", "いっ・ぴょう", "ip・pyou", "(one) vote"]
+        "answer": 2
     },
     {
         "question": "ま",
@@ -743,8 +661,7 @@
         "choice2": "ma",
         "choice3": "ho",
         "choice4": "mo",
-        "answer": 2,
-        "example": ["枕", "まくら", "まくら", "pillow"]
+        "answer": 2
     },
     {
         "question": "み",
@@ -752,8 +669,7 @@
         "choice2": "hi",
         "choice3": "mi",
         "choice4": "re",
-        "answer": 3,
-        "example": ["耳", "みみ", "mimi", "ear"]
+        "answer": 3
     },
     {
         "question": "む",
@@ -761,8 +677,7 @@
         "choice2": "mu",
         "choice3": "ma",
         "choice4": "ro",
-        "answer": 2,
-        "example": ["村", "むら", "mura", "village"]
+        "answer": 2
     },
     {
         "question": "め",
@@ -770,8 +685,7 @@
         "choice2": "me",
         "choice3": "nu",
         "choice4": "ma",
-        "answer": 2,
-        "example": ["目", "め", "me", "eye"]
+        "answer": 2
     },
     {
         "question": "も",
@@ -779,8 +693,7 @@
         "choice2": "to",
         "choice3": "n",
         "choice4": "mo",
-        "answer": 4,
-        "example": ["森", "もり", "mori", "forest"]
+        "answer": 4
     },
     {
         "question": "みゃ",
@@ -788,8 +701,7 @@
         "choice2": "nya",
         "choice3": "kyo",
         "choice4": "hyu",
-        "answer": 1,
-        "example": ["脈", "みゃく", "myaku", "vein"]
+        "answer": 1
     },
     {
         "question": "みゅ",
@@ -797,8 +709,7 @@
         "choice2": "mya",
         "choice3": "myu",
         "choice4": "hya",
-        "answer": 3,
-        "example": ["", "", "", ""]
+        "answer": 3
     },
     {
         "question": "みょ",
@@ -806,8 +717,7 @@
         "choice2": "myo",
         "choice3": "hyo",
         "choice4": "hyu",
-        "answer": 2,
-        "example": ["苗字", "みょう・じ", "myou・ji", "surname"]
+        "answer": 2
     },
     {
         "question": "や",
@@ -815,8 +725,7 @@
         "choice2": "yo",
         "choice3": "se",
         "choice4": "ra",
-        "answer": 1,
-        "example": ["山", "やま", "yama", "mountain"]
+        "answer": 1
     },
     {
         "question": "よ",
@@ -824,8 +733,7 @@
         "choice2": "so",
         "choice3": "yo",
         "choice4": "me",
-        "answer": 3,
-        "example": ["夜", "よる", "yoru", "night"]
+        "answer": 3
     },
     {
         "question": "ゆ",
@@ -833,8 +741,7 @@
         "choice2": "yu",
         "choice3": "te",
         "choice4": "no",
-        "answer": 2,
-        "example": ["夢", "ゆめ", "yume", "dream"]
+        "answer": 2
     },
     {
         "question": "ら",
@@ -842,8 +749,7 @@
         "choice2": "ra",
         "choice3": "chi",
         "choice4": "ha",
-        "answer": 2,
-        "example": ["来年", "らい・ねん", "rai・nen", "next year"]
+        "answer": 2
     },
     {
         "question": "り",
@@ -851,8 +757,7 @@
         "choice2": "ma",
         "choice3": "ri",
         "choice4": "ko",
-        "answer": 3,
-        "example": ["利益", "り・えき", "ri・eki", "benefit"]
+        "answer": 3
     },
     {
         "question": "る",
@@ -860,8 +765,7 @@
         "choice2": "ru",
         "choice3": "mo",
         "choice4": "to",
-        "answer": 2,
-        "example": ["留守電", "る・す・でん", "ru・su・den", "answering machine"]
+        "answer": 2
     },
     {
         "question": "れ",
@@ -869,8 +773,7 @@
         "choice2": "re",
         "choice3": "ne",
         "choice4": "ro",
-        "answer": 2,
-        "example": ["連絡", "れん・らく", "ren・raku", "contact"]
+        "answer": 2
     },
     {
         "question": "ろ",
@@ -878,8 +781,7 @@
         "choice2": "ra",
         "choice3": "ro",
         "choice4": "re",
-        "answer": 3,
-        "example": ["六", "ろく", "roku", "six"]
+        "answer": 3
     },
     {
         "question": "りゃ",
@@ -887,8 +789,7 @@
         "choice2": "rya",
         "choice3": "kya",
         "choice4": "ryo",
-        "answer": 2,
-        "example": ["戦略", "せん・りゃく", "sen・ryaku", "strategy"]
+        "answer": 2
     },
     {
         "question": "りゅ",
@@ -896,8 +797,7 @@
         "choice2": "kyo",
         "choice3": "shu",
         "choice4": "mya",
-        "answer": 1,
-        "example": ["龍", "りゅう", "ryuu", "dragon"]
+        "answer": 1
     },
     {
         "question": "りょ",
@@ -905,8 +805,7 @@
         "choice2": "ryo",
         "choice3": "shu",
         "choice4": "hya",
-        "answer": 2,
-        "example": ["旅行", "りょ・こう", "ryo・kou", "(travel) trip"]
+        "answer": 2
     },
     {
         "question": "わ",
@@ -914,8 +813,7 @@
         "choice2": "ne",
         "choice3": "no",
         "choice4": "re",
-        "answer": 1,
-        "example": ["私", "わたし", "watashi", "I / me"]
+        "answer": 1
     },
     {
         "question": "を",
@@ -923,8 +821,7 @@
         "choice2": "sa",
         "choice3": "ke",
         "choice4": "mo",
-        "answer": 1,
-        "example": ["", "", "", ""]
+        "answer": 1
     },
     {
         "question": "ん",
@@ -932,7 +829,6 @@
         "choice2": "n",
         "choice3": "e",
         "choice4": "o",
-        "answer": 2,
-        "example": ["温泉", "おん・せん", "on・sen", "hot spring"]
+        "answer": 2
     }
 ]
