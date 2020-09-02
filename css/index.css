@@ -1,0 +1,27 @@
+/* COLORS: lightest (#f9f2eb), light (#f6dece), middle (#fb9a81), dark (#c74524), darkest (#420606) */
+
+#home {
+  background-color: #f6dece;
+  padding: 5rem;
+  border-radius: 25px;
+  border: 10px solid #fb9a81;
+  box-shadow: 1px 1px 10px 10px #f9f2eb;
+  width: 100%;
+}
+
+#textSection,
+#btnSection {
+  margin: 30px 0px;
+}
+
+#titleJpn,
+#titleEng {
+  color: #fb9a81;
+  text-shadow: 1px 1px 1px #420606;
+}
+
+#subtitleJpn,
+#subtitleEng {
+  color: #c74524;
+  text-shadow: 1px 1px 1px #fb9a81;
+}

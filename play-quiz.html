@@ -1,14 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Kosugi+Maru&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/all-pages.css">
     <link rel="stylesheet" href="css/play-quiz.css">
     <title>Learn Japanese | PLAY</title>
 </head>
+
 <body>
+    <div class="container">
+        <div id="main" class="flex-center flex-column">
+            <!-- CHOOSE QUIZ TYPE (becomes hidden) -->
+            <div id="quizSelection" class="quiz-selection">
+                <!-- QUIZ TYPE BUTTONS -->
+                <div id="selectionBtns">
+                    <div id="quizHira" class="quiz-type-btn">
+                        ひらがな ( Hiragana )
+                    </div>
+                    <div id="quizKata" class="quiz-type-btn">
+                        カタカナ ( Katakana )
+                    </div>
+                </div>
+
+                <!-- RETURN TO HOME PAGE -->
+                <div id="btnSection" class="flex-center flex-column">
+                    <a class="btn" href="index.html">RETURN HOME</a>
+                </div>
+            </div>
+
+            <!-- GAME PLAY (start out hidden) -->
+            <div id="game" class="game">
+                <!-- GAME STATS (question count & score) -->
+                <div id="stats"></div>
+                <!-- PLAY AREA (question & answer choices) -->
+                <div id="playArea"></div>
+            </div>
+        </div>
+
+    </div>
 
     <script src="js/play-quiz.js"></script>
 </body>
+
 </html>

@@ -1,0 +1,35 @@
+/* COLORS: lightest (#f9f2eb), light (#f6dece), middle (#fb9a81), dark (#c74524), darkest (#420606) */
+
+#quizSelection {
+  background-color: #f6dece;
+  padding: 5rem;
+  border-radius: 25px;
+  border: 10px solid #fb9a81;
+  box-shadow: 1px 1px 10px 10px #f9f2eb;
+  width: 100%;
+}
+
+.quiz-type-btn {
+  color: #f9f2eb;
+  background-color: #fb9a81;
+  border: 0.4rem solid #f9f2eb;
+  padding: 30px;
+  border-radius: 20px;
+  margin: 20px 0;
+  text-align: center;
+  width: 100%;
+  font-size: 2.8rem;
+  text-shadow: 1px 1px 1px #420606;
+}
+
+.quiz-type-btn:hover {
+  cursor: pointer;
+  box-shadow: 0 0.4rem 1.4rem #420606;
+  color: #fb9a81;
+  background-color: #f9f2eb;
+  border: 0.4rem solid #fb9a81;
+}
+
+#btnSection {
+  margin: 30px 0px;
+}
