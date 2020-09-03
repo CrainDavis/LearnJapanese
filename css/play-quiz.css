@@ -40,6 +40,7 @@
 }
 
 /* ================================================================ */
+
 #playArea {
   text-align: center;
 }
@@ -47,11 +48,7 @@
 #question {
   text-align: center;
   font-size: 30rem;
-}
-.question-symbol {
-  color: #420606;
-  border: 1rem solid #c74524;
-  background-color: #f9f2eb;
+  color: #c74524;
 }
 
 .choice-container {
@@ -65,8 +62,8 @@
 .choice-container:hover {
   cursor: pointer;
   box-shadow: 0 0.4rem 1.4rem #420606;
-  background-color: #fb9a81;
-  border: 0.5rem solid #f9f2eb;
+  /* background-color: #fb9a81; */
+  border: 0.5rem solid #fb9a81;
 }
 
 .choice-prefix {
@@ -79,4 +76,25 @@
 .choice-text {
   padding: 1.5rem;
   font-size: 5rem;
+  width: 100%;
+}
+
+/* ================================================================ */
+
+.correct-prefix {
+  background-color: #28a515;
+  color: #ccf4c6;
+}
+.correct-text {
+  background-color: #ccf4c6;
+  color: #28a515;
+}
+
+.incorrect-prefix {
+  background-color: #e52929;
+  color: #f9d4d4;
+}
+.incorrect-text {
+  background-color: #f9d4d4;
+  color: #e52929;
 }

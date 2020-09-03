@@ -1,9 +1,48 @@
+const question = document.getElementById("question");
+const choices = Array.from(document.getElementsByClassName("choice-text"));
+
 const typeHira = document.getElementById("quizHira");
 const typeKata = document.getElementById("quizKata");
 
 // =======================================================================================
 
-let userQuizSelection;
+let currentQuestion = {};
+let acceptingAnswers = false;
+let score = 0;
+let questionCounter = 0;
+let availableQuestions = [];
+
+const CORRECT_BONUS = 10;
+const MAX_QUESTIONS = 3;
+
+// =======================================================================================
+
+let questions = [
+  {
+    question: "あ",
+    choice1: "a",
+    choice2: "i",
+    choice3: "u",
+    choice4: "e",
+    answer: 1,
+  },
+  {
+    question: "が",
+    choice1: "ka",
+    choice2: "ga",
+    choice3: "ge",
+    choice4: "go",
+    answer: 2,
+  },
+  {
+    question: "りゅ",
+    choice1: "ryo",
+    choice2: "ri",
+    choice3: "ryu",
+    choice4: "rya",
+    answer: 3,
+  },
+];
 
 // =======================================================================================
 
@@ -25,3 +64,70 @@ quizTypes.forEach((type) => {
       });
   });
 });
+
+// =======================================================================================
+
+startGame = () => {
+  questionCounter = 0;
+  score = 0;
+  availableQuestions = [...questions];
+  getNewQuestion();
+};
+
+getNewQuestion = () => {
+  if (availableQuestions.length === 0 || questionCounter >= MAX_QUESTIONS) {
+    return window.location.assign("submit-score.html");
+  }
+  questionCounter++;
+
+  // display random question from data
+  const questionIndex = Math.floor(Math.random() * availableQuestions.length);
+  currentQuestion = availableQuestions[questionIndex];
+  question.innerText = currentQuestion.question;
+
+  // display answer choices
+  choices.forEach((choice) => {
+    const number = choice.dataset["number"];
+    choice.innerText = currentQuestion["choice" + number];
+  });
+
+  // remove used questions from array
+  availableQuestions.splice(questionIndex, 1);
+  acceptingAnswers = true;
+};
+
+choices.forEach((choice) => {
+  choice.addEventListener("click", function (event) {
+    // prevent user from clicking buttons until app is ready
+    if (!acceptingAnswers) return;
+    acceptingAnswers = false;
+
+    // get the user's selection
+    const selectedChoice = event.target;
+    const selectedAnswer = selectedChoice.dataset["number"];
+
+    // display correct/incorrect answer
+    let textClassToApply = "incorrect-text";
+    let prefixClassToApply = "incorrect-prefix";
+
+    if (selectedAnswer == currentQuestion.answer) {
+      textClassToApply = "correct-text";
+      prefixClassToApply = "correct-prefix";
+    }
+
+    selectedChoice.classList.add(textClassToApply);
+    selectedChoice.previousElementSibling.classList.add(prefixClassToApply);
+
+    setTimeout(() => {
+      selectedChoice.classList.remove(textClassToApply);
+      selectedChoice.previousElementSibling.classList.remove(
+        prefixClassToApply
+      );
+
+      // get new question
+      getNewQuestion();
+    }, 1000);
+  });
+});
+
+startGame();
