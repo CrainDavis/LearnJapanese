@@ -7,15 +7,16 @@
     <link href="https://fonts.googleapis.com/css2?family=Kosugi+Maru&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/all-pages.css">
     <link rel="stylesheet" href="css/play-quiz.css">
-    <title>Learn Japanese | PLAY</title>
+    <title>Learn Japanese | PLAY QUIZ</title>
 </head>
 
 <body>
     <!-- QUIZ SELECTION CONTAINER -->
-    <div class="container">
+    <div id="quizSelectionContainer" class="container">
         <div id="main1" class="flex-center flex-column">
             <!-- CHOOSE QUIZ TYPE -->
             <div id="quizSelection" class="quiz-selection">
+                <h2 id="quizSelectionLabel">choose a quiz type:</h2>
                 <!-- QUIZ TYPE BUTTONS -->
                 <div id="selectionBtns">
                     <div id="quizHira" class="quiz-type-btn">
@@ -35,7 +36,7 @@
     </div>
 
     <!-- GAME PLAY CONTAINER -->
-    <div class="container hidden">
+    <div id="gamePlayContainer" class="container">
         <div id="main2" class="flex-center flex-column">
             <!-- GAME PLAY -->
             <div id="gamePlay" class="game">

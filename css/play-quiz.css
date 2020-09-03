@@ -1,12 +1,16 @@
 /* COLORS: lightest (#f9f2eb), light (#f6dece), middle (#fb9a81), dark (#c74524), darkest (#420606) */
 
-#quizSelection {
+#quizSelection, #gamePlay {
   background-color: #f6dece;
   padding: 5rem;
   border-radius: 25px;
   border: 10px solid #fb9a81;
   box-shadow: 1px 1px 10px 10px #f9f2eb;
   width: 100%;
+}
+
+#quizSelectionLabel {
+  text-align: center;
 }
 
 .quiz-type-btn {
