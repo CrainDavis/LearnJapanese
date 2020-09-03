@@ -11,9 +11,10 @@
 </head>
 
 <body>
+    <!-- QUIZ SELECTION CONTAINER -->
     <div class="container">
-        <div id="main" class="flex-center flex-column">
-            <!-- CHOOSE QUIZ TYPE (becomes hidden) -->
+        <div id="main1" class="flex-center flex-column">
+            <!-- CHOOSE QUIZ TYPE -->
             <div id="quizSelection" class="quiz-selection">
                 <!-- QUIZ TYPE BUTTONS -->
                 <div id="selectionBtns">
@@ -30,16 +31,20 @@
                     <a class="btn" href="index.html">RETURN HOME</a>
                 </div>
             </div>
+        </div>
+    </div>
 
-            <!-- GAME PLAY (start out hidden) -->
-            <div id="game" class="game">
+    <!-- GAME PLAY CONTAINER -->
+    <div class="container hidden">
+        <div id="main2" class="flex-center flex-column">
+            <!-- GAME PLAY -->
+            <div id="gamePlay" class="game">
                 <!-- GAME STATS (question count & score) -->
                 <div id="stats"></div>
                 <!-- PLAY AREA (question & answer choices) -->
                 <div id="playArea"></div>
             </div>
         </div>
-
     </div>
 
     <script src="js/play-quiz.js"></script>
