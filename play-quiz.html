@@ -12,7 +12,7 @@
 
 <body>
     <!-- QUIZ SELECTION CONTAINER -->
-    <div id="quizSelectionContainer" class="container">
+    <div id="quizSelectionContainer" class="container hidden">
         <div id="main1" class="flex-center flex-column">
             <!-- CHOOSE QUIZ TYPE -->
             <div id="quizSelection" class="quiz-selection">
@@ -47,8 +47,29 @@
             <div id="gamePlay" class="game">
                 <!-- GAME STATS (question count & score) -->
                 <div id="stats"></div>
+                
                 <!-- PLAY AREA (question & answer choices) -->
-                <div id="playArea"></div>
+                <div id="playArea">
+                    <!-- question -->
+                    <h2 id="question"><span class="question-symbol">？</span></h2>
+                    <!-- choices -->
+                    <div class="choice-container">
+                        <p class="choice-prefix">A</p>
+                        <p class="choice-text">？？？</p>
+                    </div>
+                    <div class="choice-container">
+                        <p class="choice-prefix">B</p>
+                        <p class="choice-text">？？？</p>
+                    </div>
+                    <div class="choice-container">
+                        <p class="choice-prefix">C</p>
+                        <p class="choice-text">？？？</p>
+                    </div>
+                    <div class="choice-container">
+                        <p class="choice-prefix">D</p>
+                        <p class="choice-text">？？？</p>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
