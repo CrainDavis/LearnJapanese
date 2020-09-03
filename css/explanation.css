@@ -1,5 +1,11 @@
 /* COLORS: lightest (#f9f2eb), light (#f6dece), middle (#fb9a81), dark (#c74524), darkest (#420606) */
 
+#explanationContainer {
+  height: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
 #explanation {
   background-color: #f6dece;
   padding: 5rem;
@@ -15,23 +21,23 @@
 }
 
 #heading {
-    text-align: center;
-    color: #fb9a81;
+  text-align: center;
+  color: #fb9a81;
 }
 
 .subheading {
-    margin-top: 30px;
+  margin-top: 30px;
 }
 
 .paragraph {
-    color: #420606;
+  color: #420606;
 }
 
 .external-link {
-    color: #c74524;
-    text-decoration: none;
+  color: #c74524;
+  text-decoration: none;
 }
 
 .external-link:hover {
-    color: #fb9a81;
+  color: #fb9a81;
 }
