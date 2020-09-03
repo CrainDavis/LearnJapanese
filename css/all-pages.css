@@ -3,6 +3,7 @@
 :root {
   background-color: #420606;
   font-size: 62.5%;
+  padding: 100px 0 20px 0;
 }
 
 * {
@@ -47,11 +48,15 @@ h4 {
   font-weight: 300;
 }
 
+p {
+  font-size: 2rem;
+}
+
 /* ================================================================ */
 
 .container {
   width: 100vw;
-  height: 100vh;
+  /* height: 100vh; */
   display: flex;
   justify-content: center;
   align-items: center;
