@@ -98,3 +98,19 @@
   background-color: #f9d4d4;
   color: #e52929;
 }
+
+/* ================================================================ */
+
+#stats {
+  display: flex;
+  justify-content: space-between;
+}
+
+.stats-prefix {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.stats-main-text {
+  text-align: center;
+}

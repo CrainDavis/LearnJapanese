@@ -1,5 +1,7 @@
 const question = document.getElementById("question");
 const choices = Array.from(document.getElementsByClassName("choice-text"));
+const questionCounterText = document.getElementById("questionCounter");
+const scoreText = document.getElementById("score");
 
 const typeHira = document.getElementById("quizHira");
 const typeKata = document.getElementById("quizKata");
@@ -79,6 +81,7 @@ getNewQuestion = () => {
     return window.location.assign("submit-score.html");
   }
   questionCounter++;
+  questionCounterText.innerText = `${questionCounter}/${MAX_QUESTIONS}`;
 
   // display random question from data
   const questionIndex = Math.floor(Math.random() * availableQuestions.length);
@@ -115,6 +118,11 @@ choices.forEach((choice) => {
       prefixClassToApply = "correct-prefix";
     }
 
+    // increment score for correct answers
+    if (textClassToApply === "correct-text") {
+      incrementScore(CORRECT_BONUS);
+    }
+
     selectedChoice.classList.add(textClassToApply);
     selectedChoice.previousElementSibling.classList.add(prefixClassToApply);
 
@@ -129,5 +137,10 @@ choices.forEach((choice) => {
     }, 1000);
   });
 });
+
+incrementScore = (num) => {
+  score += num;
+  scoreText.innerText = `${score}点`;
+};
 
 startGame();
