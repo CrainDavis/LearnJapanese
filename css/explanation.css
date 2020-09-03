@@ -1,0 +1,44 @@
+/* COLORS: lightest (#f9f2eb), light (#f6dece), middle (#fb9a81), dark (#c74524), darkest (#420606) */
+
+#explanationContainer {
+  height: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#explanation {
+  background-color: #f6dece;
+  padding: 5rem;
+  border-radius: 25px;
+  border: 10px solid #fb9a81;
+  box-shadow: 1px 1px 10px 10px #f9f2eb;
+  width: 100%;
+}
+
+#textSection,
+#btnSection {
+  margin: 30px 0px;
+}
+
+#heading {
+  text-align: center;
+  color: #fb9a81;
+  text-shadow: 1px 1px 1px #420606;
+}
+
+.subheading {
+  margin-top: 30px;
+}
+
+.paragraph {
+  color: #420606;
+}
+
+.external-link {
+  color: #c74524;
+  text-decoration: none;
+}
+
+.external-link:hover {
+  color: #fb9a81;
+}
