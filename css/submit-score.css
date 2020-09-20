@@ -1,1 +1,62 @@
 /* COLORS: lightest (#f9f2eb), light (#f6dece), middle (#fb9a81), dark (#c74524), darkest (#420606) */
+
+#submitScores {
+  background-color: #f6dece;
+  padding: 5rem;
+  border-radius: 25px;
+  border: 10px solid #fb9a81;
+  box-shadow: 1px 1px 10px 10px #f9f2eb;
+  width: 100%;
+}
+
+/* ================================================================ */
+
+#scorePretext {
+  text-align: center;
+  color: #c74524;
+  font-size: 3rem;
+  margin-bottom: 0;
+}
+#scoreMainText {
+  text-align: center;
+  margin: 10px 0;
+}
+#finalScore {
+  color: #fb9a81;
+}
+#scoreCounter {
+  color: #c74524;
+  font-size: 3rem;
+}
+
+/* ================================================================ */
+
+#formInput {
+  margin-top: 3rem;
+  text-align: center;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#username {
+  margin-bottom: 3rem;
+  width: 100%;
+  padding: 1.5rem;
+  font-size: 1.8rem;
+  border: 0.2rem solid #fb9a81;
+  box-shadow: 0 0.1rem 1.4rem 0 #c74524;
+  text-align: center;
+}
+#username::placeholder {
+  color: #fb9a81;
+}
+#username:focus {
+  background-color: #f9f2eb;
+  border: 0.2rem solid #c74524;
+  color: #c74524;
+}
+textarea:focus,
+input:focus {
+  outline: none;
+}

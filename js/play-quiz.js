@@ -78,9 +78,13 @@ startGame = () => {
 };
 
 getNewQuestion = () => {
+  // check to see if quiz is finished
   if (availableQuestions.length === 0 || questionCounter >= MAX_QUESTIONS) {
+    localStorage.setItem("mostRecentScore", score);
     return window.location.assign("submit-score.html");
   }
+
+  // increment score and progress bar
   questionCounter++;
   progressText.innerText = `問題 ${questionCounter}/${MAX_QUESTIONS}`;
   progressBarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 100}%`;

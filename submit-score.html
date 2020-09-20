@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,8 +9,30 @@
     <link rel="stylesheet" href="css/submit-score.css">
     <title>Learn Japanese | SUBMIT SCORE</title>
 </head>
+
 <body>
+    <div class="container">
+        <div id="submitScores" class="flex-center flex-column">
+            <div id="textSection" class="flex-center flex-column">
+                <h1 id="titleJpn">よく頑張りました！</h1>
+                <h2 id="titleEng">Great Job!</h2>
+            </div>
+            <div class="scoreSection" class="flex-center flex-column">
+                <h1 id="scorePretext">score (104点満点):</h1>
+                <h1 id="scoreMainText"><span id="finalScore">？？</span><span id="scoreCounter">点</span></h1>
+                <form id="formInput">
+                    <input type="text" name="username" id="username" placeholder="input your name here and save your score!">
+                    <button type="submit" class="btn" id="saveScoreBtn" onclick="saveHighScore(event)" disabled>SAVE SCORE</button>
+                </form>
+            </div>
+            <div id="btnSection" class="flex-center flex-column">
+                <a class="btn" href="play-quiz.html">PLAY AGAIN</a>
+                <a class="btn" href="index.html">GO HOME</a>
+            </div>
+        </div>
+    </div>
 
     <script src="js/submit-score.js"></script>
 </body>
+
 </html>

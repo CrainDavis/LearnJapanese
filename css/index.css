@@ -8,20 +8,3 @@
   box-shadow: 1px 1px 10px 10px #f9f2eb;
   width: 100%;
 }
-
-#textSection,
-#btnSection {
-  margin: 30px 0px;
-}
-
-#titleJpn,
-#titleEng {
-  color: #fb9a81;
-  text-shadow: 1px 1px 1px #420606;
-}
-
-#subtitleJpn,
-#subtitleEng {
-  color: #c74524;
-  text-shadow: 1px 1px 1px #fb9a81;
-}
