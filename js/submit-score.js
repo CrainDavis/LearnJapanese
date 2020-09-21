@@ -20,10 +20,14 @@ finalScore.innerText = mostRecentScore;
 saveHighScore = (event) => {
   event.preventDefault();
 
+  // create a date to be stored
+  let currentDate = new Date().toJSON().slice(0, 10).replace(/-/g, "/");
+
   // items saved in local storage
   const score = {
     score: mostRecentScore,
     name: username.value,
+    date: currentDate,
   };
 
   // push items into array

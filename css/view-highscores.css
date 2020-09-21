@@ -13,11 +13,20 @@
   list-style: none;
   padding-left: 0;
   margin-bottom: 4rem;
+  background-color: #c74524;
+  border-radius: 25px;
+  border: 5px solid #fb9a81;
+  padding: 5rem 5rem 3rem 5rem;
 }
 
 .high-score {
   font-size: 2.8rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: 2rem;
+  color: #f9f2eb;
+}
+
+.score-item {
+  color: #f9f2eb;
 }
 
 .high-score:hover {
