@@ -1,5 +1,10 @@
 /* COLORS: lightest (#f9f2eb), light (#f6dece), middle (#fb9a81), dark (#c74524), darkest (#420606) */
 
+.hr {
+  border: 0.1rem dashed #fb9a81;
+  margin-bottom: 3rem;
+}
+
 #viewHighScores {
   background-color: #f6dece;
   padding: 5rem;
@@ -11,24 +16,41 @@
 
 #highScoresList {
   list-style: none;
-  padding-left: 0;
-  margin-bottom: 4rem;
+  margin-bottom: -4rem;
   background-color: #c74524;
   border-radius: 25px;
   border: 5px solid #fb9a81;
-  padding: 5rem 5rem 3rem 5rem;
+  padding: 5rem 1rem 2rem 1rem;
+  text-align: center;
+}
+
+#listLabels {
+  margin-bottom: 0.8rem;
+  font-weight: bold;
+}
+
+.label {
+  color: #c74524;
+  padding: 0 2.5rem;
+  font-size: 1.8rem;
 }
 
 .high-score {
   font-size: 2.8rem;
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
   color: #f9f2eb;
 }
 
 .score-item {
-  color: #f9f2eb;
+  color: #c74524;
+  background-color: #f6dece;
+  padding: 1rem;
+  margin: 0 0.5rem;
+  border-radius: 15px;
+  border: 0.2rem solid #420606;
+  box-shadow: 1px 1px 5px 1px #420606;
 }
 
-.high-score:hover {
-  transform: scale(1.025);
+#clearBtn {
+  margin-bottom: 5rem;
 }

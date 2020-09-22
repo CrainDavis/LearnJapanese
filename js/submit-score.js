@@ -11,6 +11,7 @@ const MAX_HIGH_SCORES = 10;
 
 username.addEventListener("keyup", () => {
   saveScoreBtn.disabled = !username.value;
+  saveScoreBtn.disabled = username.value.length > 10;
 });
 
 finalScore.innerText = mostRecentScore;
@@ -21,13 +22,14 @@ saveHighScore = (event) => {
   event.preventDefault();
 
   // create a date to be stored
-  let currentDate = new Date().toJSON().slice(0, 10).replace(/-/g, "/");
+  let currentDate = new Date().toJSON().slice(5, 10).replace(/-/g, "/");
 
   // items saved in local storage
   const score = {
     score: mostRecentScore,
     name: username.value,
     date: currentDate,
+    quizType: "？？？？"
   };
 
   // push items into array

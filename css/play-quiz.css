@@ -55,7 +55,6 @@
 .choice-container:hover {
   cursor: pointer;
   box-shadow: 0 0.4rem 1.4rem #420606;
-  /* background-color: #fb9a81; */
   border: 0.5rem solid #fb9a81;
 }
 .choice-prefix {
