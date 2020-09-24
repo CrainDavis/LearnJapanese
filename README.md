@@ -3,8 +3,18 @@
 
 ---
 
+## Table of Contents:
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Demonstration](#demonstration)
+* [Resources](#resources)
+* [Questions](#questions)
+
+---
+
 ## Description
-This is a quiz app for users to learn how to read Japanese Hiragana and Katakana. 
+This is a multiple-choice quiz app for users to learn how to read Japanese Hiragana and Katakana. 
 
 To keep things brief, the Japanese language has three writing systems: Hiragana, Katakana, and Kanji. Hiragana and Katakana are both syllabic writing systems, meaning that each character represents a syllable (a block of sounds made up of a combination of consonants and vowels), but each character does not have any intrinsic meaning. Basically, the character __「あ」__ (pronounced like the __'a'__ in 'father') has a pronunciation, but the character does not have any meaning behind it. All three scripts are crucial to learning Japanese, as each script has its own purpose and all three are heavily used in everyday life.
 
@@ -32,22 +42,20 @@ __Katakana (カタカナ) Chart:__
 
 ---
 
-## Table of Contents:
-* [Installation](#installation)
-* [Usage](#usage)
-* [Demonstration](#demonstration)
-* [Resources](#resources)
-* [Questions](#questions)
-
----
-
 ## Installation
 No installation is required.
 
 ---
 
 ## Usage
-coming soon...
+To begin using this application, go to __[this link](https://craindavis.github.io/LearnJapanese/)__. 
+* Read the instructions on the HOME PAGE, and if you want further information, click the "ABOUT JAPANESE" button. 
+* When you are ready to play the quiz, click the "PLAY QUIZ" button. You will be taken to a selection panel, where you can choose which quiz type to play: Hiragana (ひらがな) or Katakana (カタカナ). Once you have made your selection, you will then be able to play the quiz. _Please note that each quiz is over 100 questions!_ 
+* When you select an answer, you will be told whether your selection is correct or incorrect. However, if you are incorrect, you will not be told which choice is the correct answer. Each correct answer is worth 1 point. 
+* Once you have answered all of the questions, you will have the choice to provide your name (or username) and save your score to the High Scores Board. If you choose not to save your score, you can navigate directly back to the HOME PAGE.
+* If you have chosen to save your score, you will be redirected to view the SCORE BOARD PAGE, where you can see your previous high score(s). _Please note that only the 10 highest scores will be listed._ You may choose to delete all of your scores at any time.
+
+Have fun and learn Japanese!
 
 ---
 
