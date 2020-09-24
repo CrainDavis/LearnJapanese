@@ -8,3 +8,8 @@
   box-shadow: 1px 1px 10px 10px #f9f2eb;
   width: 100%;
 }
+
+#instructions {
+  margin-top: 2rem;
+  text-align: center;
+}

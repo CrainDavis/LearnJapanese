@@ -7,6 +7,11 @@ const scoreText = document.getElementById("score");
 const typeHira = document.getElementById("quizHira");
 const typeKata = document.getElementById("quizKata");
 
+const quizSelectionContainer = document.getElementById(
+  "quizSelectionContainer"
+);
+const gamePlayContainer = document.getElementById("gamePlayContainer");
+
 // =======================================================================================
 
 let currentQuestion = {};
@@ -15,37 +20,23 @@ let score = 0;
 let questionCounter = 0;
 let availableQuestions = [];
 
-const CORRECT_BONUS = 1;
-const MAX_QUESTIONS = 3;
+let CORRECT_BONUS = 1;
+let MAX_QUESTIONS = 3;
 
 // =======================================================================================
 
-let questions = [
-  {
-    question: "あ",
-    choice1: "a",
-    choice2: "i",
-    choice3: "u",
-    choice4: "e",
-    answer: 1,
-  },
-  {
-    question: "が",
-    choice1: "ka",
-    choice2: "ga",
-    choice3: "ge",
-    choice4: "go",
-    answer: 2,
-  },
-  {
-    question: "りゅ",
-    choice1: "ryo",
-    choice2: "ri",
-    choice3: "ryu",
-    choice4: "rya",
-    answer: 3,
-  },
-];
+let questions = [];
+let quizSelection = "";
+
+// =======================================================================================
+
+window.onload = function () {
+  quizSelectionContainer.classList.remove("hidden");
+  gamePlayContainer.classList.add("hidden");
+
+  MAX_QUESTIONS = 3;
+  quizSelection = "";
+};
 
 // =======================================================================================
 
@@ -61,9 +52,17 @@ quizTypes.forEach((type) => {
         return res.json();
       })
       .then((loadedData) => {
-        console.log("quiz type: ", type.quizType);
-        console.log("data: ", loadedData);
-        console.log("details: ", loadedData.length);
+
+        quizSelectionContainer.classList.add("hidden");
+        gamePlayContainer.classList.remove("hidden");
+
+        questions = loadedData;
+        MAX_QUESTIONS = loadedData.length;
+        quizSelection = type.quizType;
+        startGame();
+      })
+      .catch((err) => {
+        console.log("error", err);
       });
   });
 });
@@ -81,6 +80,7 @@ getNewQuestion = () => {
   // check to see if quiz is finished
   if (availableQuestions.length === 0 || questionCounter >= MAX_QUESTIONS) {
     localStorage.setItem("mostRecentScore", score);
+    localStorage.setItem("mostRecentQuizType", quizSelection);
     return window.location.assign("submit-score.html");
   }
 
@@ -148,5 +148,3 @@ incrementScore = (num) => {
   score += num;
   scoreText.innerText = `${score}点`;
 };
-
-startGame();

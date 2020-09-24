@@ -2,6 +2,7 @@ const username = document.getElementById("username");
 const saveScoreBtn = document.getElementById("saveScoreBtn");
 
 const mostRecentScore = localStorage.getItem("mostRecentScore");
+const mostRecentQuizType = localStorage.getItem("mostRecentQuizType");
 const finalScore = document.getElementById("finalScore");
 
 // =======================================================================================
@@ -29,7 +30,7 @@ saveHighScore = (event) => {
     score: mostRecentScore,
     name: username.value,
     date: currentDate,
-    quizType: "？？？？"
+    quizType: mostRecentQuizType,
   };
 
   // push items into array
