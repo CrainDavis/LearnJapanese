@@ -1,4 +1,4 @@
-# Let's Learn Japanese! (日本語を勉強しましょう！)
+# Let's Learn Japanese! (日本語を学びましょう！)
 ![GitHub repo size](https://img.shields.io/github/repo-size/CrainDavis/LearnJapanese?style=for-the-badge) ![GitHub code size](https://img.shields.io/github/languages/code-size/CrainDavis/LearnJapanese?color=gold&style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/CrainDavis/LearnJapanese?color=green&style=for-the-badge) ![GitHub top language](https://img.shields.io/github/languages/top/CrainDavis/LearnJapanese?color=red&style=for-the-badge)
 
 ---
