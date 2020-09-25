@@ -60,7 +60,7 @@ Have fun and learn Japanese!
 ---
 
 ## Demonstration
-coming soon...
+To view a video demonstration of this application, go to __[this link](https://drive.google.com/file/d/1Jy63LjAfmKNQsvSxXMXiFMQOiL6Noqac/view)__.
 
 ---
 
